@@ -24,7 +24,7 @@
 ## 🌐 Connect with Me
 <p align="left">
 <a href="mailto:prashantsharma3018@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Email" width="40" height="40" />
 </a>
 
   <a href="https://www.linkedin.com/" target="_blank">
